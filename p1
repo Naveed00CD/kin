@@ -48,7 +48,7 @@
 
             <p>You can also include images:</p>
             <img src="https://via.placeholder.com/150" alt="A 150x150 placeholder image">
-            <p class="highlight">This paragraph has a CSS class applied for styling.</p>
+           
         </section>
 
         <section>
